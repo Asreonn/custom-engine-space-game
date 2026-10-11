@@ -1,5 +1,7 @@
 # Custom Game Engine Space Game
 
+> **Status:** Paused prototype from early 2026 (C + raylib).
+
 Lightweight C/Raylib space prototype focused on a modular codebase: player, planets, spritesheets, asteroids, and beam mining.
 
 ## Features
